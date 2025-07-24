@@ -20,21 +20,25 @@
 ## 🧰 Tech Stack
 
 ### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7b3ba4be-b2b9-4bd5-ac08-5b4516b20bfb" alt="Python" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/c70d963a-d7df-4b17-a317-1378bec745af" alt="C" height="60"/>
+  <img src="https://github.com/user-attachments/assets/4f65d820-d85b-4b8b-96d7-4c249802cd2e" alt="C++" height="60"/>
+  <img src="https://github.com/user-attachments/assets/464ba3f5-4128-439f-9277-e7d955fd224b" alt="Java" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/3f888f7b-684c-4c69-8373-6a45fad993e6" alt="JavaScript" height="60" />
 </p>
 
-
 ### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/280e5f18-7773-4c39-836c-3a51b8ac0b69" alt="HTML" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/d0ccc898-783f-41e5-bcd8-1d4bf52d2d11" alt="CSS" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/72b142a1-c113-45e4-b692-f617511723a7" alt="React Native" height="60" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/537890a9-83e6-4e1e-b77b-9766e7a64635" alt="Tailwind CSS" height="60" />
 </p>
 
 ### 🧩 Tools & Platforms
