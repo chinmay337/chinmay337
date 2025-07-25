@@ -94,10 +94,12 @@
 
 ## 📫 Let's Connect
 
-**📧 Email:** chinmay0337@gmail.com  
-**📷 Instagram:** [@chinmay_337](https://instagram.com/chinmay_337)  
-**💼 LinkedIn:** Coming soon...
+<div align="center">
 
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chinmay0337@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/chinmay_337)
+
+</div>
 ---
 
 <div align="center">
