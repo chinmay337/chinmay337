@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/d2a3bce9-5b1d-4cad-9b6e-c965fdad0fd2" width="350" />
 
 🎓 **Currently studying:** Diploma at Thakur Polytechnic, Mumbai  
-🖥️ **Programming with:** Python, C, C++, Java, HTML, CSS  
+🖥️ **Programming with:** Python, C, C++, Java, HTML, CSS, Java-Script <br>
 🌐 **Exploring:** React Native, Tailwind CSS, ExpoGo  
 🎨 **Designing with:** Figma & Canva  
 💼 **Building:** LokNetra – A political awareness & voting app  
